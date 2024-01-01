@@ -314,14 +314,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 241424772076581446, guid: 400d406f488bce840a795e1b35de1e71, type: 3}
-      propertyPath: m_Drag
-      value: 0.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 241424772076581446, guid: 400d406f488bce840a795e1b35de1e71, type: 3}
-      propertyPath: m_Constraints
-      value: 56
-      objectReference: {fileID: 0}
     - target: {fileID: 1777395383029009221, guid: 400d406f488bce840a795e1b35de1e71, type: 3}
       propertyPath: m_Name
       value: Rocket
@@ -382,6 +374,10 @@ PrefabInstance:
     - target: {fileID: 136014200947479642, guid: 6cb355ebe76ea7b4b96841c316e2162d, type: 3}
       propertyPath: m_Name
       value: Launching-pad
+      objectReference: {fileID: 0}
+    - target: {fileID: 136014200947479642, guid: 6cb355ebe76ea7b4b96841c316e2162d, type: 3}
+      propertyPath: m_TagString
+      value: Friendly
       objectReference: {fileID: 0}
     - target: {fileID: 4302506697446826375, guid: 6cb355ebe76ea7b4b96841c316e2162d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -536,6 +532,10 @@ PrefabInstance:
     - target: {fileID: 8489779417583064652, guid: 54660598eaf0392419898335e72fc4b1, type: 3}
       propertyPath: m_Name
       value: Landing-pad
+      objectReference: {fileID: 0}
+    - target: {fileID: 8489779417583064652, guid: 54660598eaf0392419898335e72fc4b1, type: 3}
+      propertyPath: m_TagString
+      value: Finish
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
