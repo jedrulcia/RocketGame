@@ -1,6 +1,6 @@
-# 🚀 RocketGame 
+# 🚀 RocketRush 
 
-### Arcade Rocket Game made in Unity 3D
+### Arcade game made in Unity 3D
 
 Try here: https://sharemygame.com/@jedrulcia/jedrulcia-rocket-game
 
